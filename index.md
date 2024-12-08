@@ -175,7 +175,7 @@ layout: default
 
 <h1>Teaching</h1> 
 
-I received a Commendation for the Innovation in Inclusive Curricula Prize (Australasian Association of Philosophy, 2023), and the School of Humanities Teaching Award (Nanyang Technological University, 2023-4). 
+I received a <a href="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" data-type="link" data-id="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" target="_blank" rel="noreferrer noopener">Commendation for the Innovation in Inclusive Curricula Prize</a> (Australasian Association of Philosophy, 2023), and the <a href="https://www.ntu.edu.sg/soh/news-events/news/detail/congratulations-to-the-winners-of-the-inaugural-school-of-humanities-teaching-award-2023!" target="_blank" rel="noreferrer noopener"> School of Humanities Teaching Award</a> (Nanyang Technological University, 2023-4). 
 
 Nanyang Technological University
 * Philosophy of Race and Gender. 2023, 2024.
