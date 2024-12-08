@@ -25,7 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: chongminglim.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chongminglim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+logo: /assets/img/cmlim.jpeg
+description: I am an Assistant Professor of Philosophy at <a rel="noreferrer noopener" href="https://www.ntu.edu.sg/soh/about-us/philosophy" data-type="link" data-id="https://www.ntu.edu.sg/soh/about-us/philosophy" target="_blank">Nanyang Technological University</a>. From AY2025, I will be a Lecturer in Political Philosophy at the <a href="https://www.sheffield.ac.uk/philosophy" data-type="link" data-id="https://www.sheffield.ac.uk/philosophy" target="_blank" rel="noreferrer noopener">University of Sheffield</a>.<br>
+Prior to this, I was a Postdoctoral Fellow at the <a href="https://ethicsinsociety.stanford.edu/" data-type="link" data-id="https://ethicsinsociety.stanford.edu/" target="_blank" rel="noreferrer noopener">McCoy Family Center for Ethics in Society, Stanford University</a>. I completed my DPhil in Philosophy at the <a href="https://www.philosophy.ox.ac.uk/" data-type="link" data-id="https://www.philosophy.ox.ac.uk/" target="_blank" rel="noreferrer noopener">University of Oxford</a>.<br>
+You can email me at cm.lim[at]ntu.edu.sg.<br>
+<a href="https://scholar.google.co.uk/citations?hl=en&user=PG1IJTEAAAAJ"><img src="/assets/img/GoogleScholar.png" alt="Google Scholar" style="width:42px;height:42px;"></a>
+<a href="https://philpeople.org/profiles/chong-ming-lim"><img src="/assets/img/PhilPapers.png" alt="PhilPapers" style="width:42px;height:42px;"></a>
+<a href="https://nanyang.academia.edu/ChongMingLim"><img src="/assets/img/Academia.png" alt="Academia.edu" style="width:42px;height:42px;"></a>
+<a href="https://bsky.app/profile/chongminglim.bsky.social"><img src="/assets/img/Bluesky" alt="Bluesky" style="width:42px;height:42px;"></a>
 
 # Build settings
 theme: jekyll-theme-minimal
