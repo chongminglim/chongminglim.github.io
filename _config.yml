@@ -21,8 +21,6 @@
 title: Chong-Ming Lim
 description: >- # this means to ignore newlines until "baseurl:"
   Philosopher
-domain: chongminglim.github.io
-url: https://chongminglim.github.io # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/cmlim.jpeg
 description: >
   <br>
