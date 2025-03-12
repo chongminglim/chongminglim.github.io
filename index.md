@@ -5,6 +5,25 @@ layout: default
 <h1>Research</h1>
 
 <details>
+<summary>2025 (Forthcoming). Public commemoration and remembrance. In <em>The Oxford Handbook of Philosophy of Memory</em>, eds. Andre Sant’Anna and Carl F. Craver. Oxford University Press.
+<font color="#267CB9">[Abstract]</font>
+<a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
+</summary>
+<p>Public commemorative artefacts (including public monuments) typically mark out some historical subject – typically, a person or an event – as important for a community to remember. This chapter surveys the budding literature on the historical character of public commemorative artefacts. First, it details three typical aims of public commemorative artefacts as they pertain to public remembrance. They declare the importance of some historical subject, impart ethical or political lessons, and foster community identity that is grounded in shared remembrance of the past. Next, it outlines two common problems with public commemorative artefacts. They can present incomplete or distorted accounts of history, and lead people to abdicate responsibility for the past. The chapter proposes an account of democratic public historiography that addresses the problems with public commemorative artefacts.</p>
+</details><p></p>
+
+
+<details>
+<summary>2025 (Forthcoming). Civil disobedience and conscientious refusal. In <em>The Oxford Handbook of the Philosophy of John Rawls</em>, eds. Christie Hartley, Blain Neufeld and Lori Watson. Oxford University Press. Co-authored with <a href="https://philosophy.ubc.ca/profile/kimberley-brownlee/" target="_blank" rel="noopener">Kimberley Brownlee</a>.
+<font color="#267CB9">[Abstract]</font>
+<a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
+</summary>
+<p>In <em>A Theory of Justice</em>, John Rawls produced what remains the most influential account of civil disobedience and, to a lesser extent, conscientious refusal. Engaging with Rawls’s account and seeking to deploy it to evaluate real-world cases are, however, undertakings beset with difficulties. In relation to civil disobedience, first, Rawls defines civil disobedience so narrowly (as a conscientious, non-violent breach of law undertaken with fair notice, fidelity to the system, and acceptance of the consequences to bring about policy change) that no paradigm example from Gandhi to Rosa Parks satisfies it. Second, Rawls’s three conditions for morally justified civil disobedience – that it be undertaken (1) in response to violations of the principles of justice, (2) as a last resort, and (3) in coordination with other dissenters so as not to overburden the majority’s sense of justice or risk lasting injury to a just constitution – impose extreme restrictions on civil disobedience. In relation to conscientious refusal, Rawls’s approach is equally narrow: he sets aside refusals that would be grounded in persons’ private commitments and focuses instead on refusals grounded in public considerations; his central case is selective pacificism grounded in a respect for equal basic liberties (Rawls’s first principle of justice). This chapter acknowledges the argumentative power and lasting influence of Rawls’s treatment of civil disobedience and conscientious objection, while detailing how his account must be refined – and in some ways radically altered – to address real-world concerns.</p>
+</details><p></p>
+
+<details>
 <summary>2025 (Forthcoming). Political resistance and property damage. In <em>The Ethics of Uncivil Protest and Resistance</em>, eds. Candice Delmas & Avia Pasternak. Oxford University Press.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -63,7 +82,7 @@ layout: default
 </details><p></p>
 
 <details>
-<summary>2023. The legitimate targets of political resistance. <em>Philosophers&#8217; Imprint</em> 23(1)(8): 1-17.
+<summary>2023. The legitimate targets of political resistance. <em>Philosophers&#8217; Imprint</em> 23(8): 1-17.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/l8fwi4af8tn0oh68uj2th/Lim-2023-Imprint.pdf?rlkey=nvqt49g2ptp8fn211uuujl67h&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://journals.publishing.umich.edu/phimp/article/id/717/" target="_blank" rel="noopener noreferrer">[Link]</a>
