@@ -4,15 +4,15 @@ layout: default
 
 <h1>Research</h1>
 
+<h2>Articles and Book Chapters</h2>
 <details>
-<summary>2025 (Forthcoming). Public commemoration and remembrance. In <em>The Oxford Handbook of Philosophy of Memory</em>, eds. Andre Sant’Anna and Carl F. Craver. Oxford University Press.
+<summary>2026 (Forthcoming). Public commemoration and remembrance. In <em>The Oxford Handbook of Philosophy of Memory</em>, eds. Andre Sant’Anna and Carl F. Craver. Oxford University Press.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>Public commemorative artefacts (including public monuments) typically mark out some historical subject – typically, a person or an event – as important for a community to remember. This chapter surveys the budding literature on the historical character of public commemorative artefacts. First, it details three typical aims of public commemorative artefacts as they pertain to public remembrance. They declare the importance of some historical subject, impart ethical or political lessons, and foster community identity that is grounded in shared remembrance of the past. Next, it outlines two common problems with public commemorative artefacts. They can present incomplete or distorted accounts of history, and lead people to abdicate responsibility for the past. The chapter proposes an account of democratic public historiography that addresses the problems with public commemorative artefacts.</p>
 </details><p></p>
-
 
 <details>
 <summary>2025 (Forthcoming). Civil disobedience and conscientious refusal. In <em>The Oxford Handbook of the Philosophy of John Rawls</em>, eds. Christie Hartley, Blain Neufeld and Lori Watson. Oxford University Press. Co-authored with <a href="https://philosophy.ubc.ca/profile/kimberley-brownlee/" target="_blank" rel="noopener">Kimberley Brownlee</a>.
@@ -33,30 +33,21 @@ layout: default
 </details><p></p>
 
 <details>
-<summary>2025 (Forthcoming). Commemorative artefactual speech. <em>Ergo</em>.
+<summary>2025. Commemorative artefactual speech. <em>Ergo</em> 12(39): 1013-1038.
 <font color="#267CB9">[Abstract]</font>
-<a href="https://www.dropbox.com/scl/fi/4fvp0xmblcdlu1s6jjboq/Lim-forthcoming-Ergo.pdf?rlkey=5d043jlfx2u1pufj6azd5mnz6&st=1ezxbifz&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
+<a href="https://www.dropbox.com/scl/fi/bxe9lkxdgn0sw8kqk2w70/Lim-2025-Ergo.pdf?rlkey=pe0qkmj31ziffx7qw913kvr89&st=ha1dw8tp&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://journals.publishing.umich.edu/ergo/article/id/7962/" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>Commemorative artefacts purportedly speak – they communicate messages to their audience, even if no words are uttered. Sometimes, such artefacts purportedly communicate demeaning or pejorative messages about some members of society. The characteristics of such speech are, however, under-examined. I present an account of the paradigmatic characteristics of the speech of commemorative artefacts (or, “commemorative artefactual speech”), as a distinct form of political speech. According to my account, commemorative artefactual speech paradigmatically involves the use of an artefact by an authorised member of a group to declare the importance of remembering a subject, in virtue of some feature of the subject. Then, I outline a variety of ways that commemorative artefactual speech can go awry. Such speech can be unauthorised, involve unfair exclusion or incorrect identification, be aesthetically inadequate, invoke clandestine explanations, and be directed at inappropriate subjects. I conclude with a discussion of the implications of my account for resisting problematic commemorative artefactual speech.</p>
 </details><p></p>
 
 <details>
-<summary>2025 (Online first). Commemoration and constriction. <em>The Journal of Ethics</em>.
+<summary>2025. Commemoration and constriction. <em>The Journal of Ethics</em> 29: 43-62.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/b23xvxer3hg3mesk65d1h/Lim-2025-JOE.pdf?rlkey=i7wg9p9wu3gprywbd3qm1y40h&st=98e7h8jq&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://link.springer.com/article/10.1007/s10892-024-09503-7" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>In analysing the problems with commemorative artefacts, philosophers have tended to focus on objectionable monuments that honour inappropriate subjects. The problems with such monuments, however, do not exhaust problems with a society’s public commemorative landscape – the totality of public commemorative artefacts in general, and the institutions involved in their creation and maintenance. I argue that a public commemorative landscape can implicate authoritative ideas, including stereotypes about people in virtue of their group membership. This contributes to what I term hermeneutical constriction – a situation in which people are given reason to rely on an authoritative subset of the totality of hermeneutical resources that they actually have access to. Critiquing and resisting these problems with a public commemorative landscape that contributes to hermeneutical constriction is fraught with difficulties. Attempts to do so render activists vulnerable to a range of serious criticisms.</p>
-</details><p></p>
-
-<details>
-<summary>2024. Review of <em>The Epistemology of Protest: Silencing, Epistemic Activism, and the Communicative Life of Resistance</em>, by José Medina. <em>Ethics</em> 134(4): 599-604.
-<font color="#267CB9">[Abstract]</font>
-<a href="https://www.dropbox.com/scl/fi/alha64w797ddci0e94ffd/Lim-2024-Ethics-rev.pdf?rlkey=10co6i2gxso1pysioi25nuxu7&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://www.journals.uchicago.edu/doi/10.1086/729715" target="_blank" rel="noopener noreferrer">[Link]</a>
-</summary>
-<p>I review José Medina's book.</p>
 </details><p></p>
 
 <details>
@@ -98,14 +89,6 @@ layout: default
 </summary>
 <p>Social movements often impose nontrivial costs on others against their wills. Civil disobedience is no exception. How can social movements in general, and civil disobedience in particular, be justifiable despite this apparent wrong-making feature? We examine an intuitively plausible account – it is fair that everyone should bear the burdens of tackling injustice. We extend this fairness-based argument for civil disobedience to defend some acts of uncivil disobedience. Focusing on uncivil environmental activism – such as ecotage (sabotage with the aim of protecting the environment) – we argue that some acts of uncivil disobedience can be morally superior to their civil counterparts, when and because such acts target people who are responsible for environmental threats. Indeed, insofar as some acts of uncivil disobedience can more accurately target responsible people, they can better satisfy the demands of fairness compared to their civil counterparts. In some circumstances, our argument may require activists to engage in uncivil disobedience even when civil disobedience is available.</p>
 </details><p></p>
-
-<details>
-<summary>2022. Review of <em>The Minority Body: A Theory of Disability</em>, by Elizabeth Barnes. <em>Mind</em> 131(522): 650-659.
-<font color="#267CB9">[Abstract]</font>
-<a href="https://www.dropbox.com/scl/fi/k92a284b4eqkv94wyuulo/Lim-2020-MIND-rev.pdf?rlkey=we0tvncfb07m1q6em91xp7v7q&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzaa075/6008685?guestAccessKey=f665109c-873d-44b2-8e54-dd6ca21dfcad" target="_blank" rel="noopener noreferrer">[Link]</a>
-</summary>
-<p>I review Elizabeth Barnes&#8217; book.</p></details><p></p>
 
 <details>
 <summary>2021. Differentiating disobedients. <em>Journal of Ethics and Social Philosophy </em>20(2): 119-143.
@@ -194,39 +177,29 @@ layout: default
 <p>One of the central claims of the neurodiversity movement is that society should accommodate the needs of autistics, rather than try to treat autism. People have variously tried to reject this accommodation thesis as applicable to all autistics. One instance is Pier Jaarsma and Stellan Welin, who argue that the thesis should apply to some but not all autistics. They do so via separating autistics into high- and low-functioning, on the basis of IQ and social effectiveness or functionings. I reject their grounds for separating autistics. IQ is an irrelevant basis for separating autistics. Charitably rendering it as referring to more general capacities still leaves us mistaken about the roles they play in supporting the accommodation thesis. The appeal to social effectiveness or functionings relies on standards that are inapplicable to autistics, and which risks being deaf to the point of their claims. I then consider if their remaining argument concerning autistic culture may succeed independently of the line they draw. I argue that construing autistics’ claims as beginning from culture mistakes their status, and may even detract from their aims. Via my discussion of Jaarsma and Welin, I hope to point to why the more general strategy of separating autistics, in response to the accommodation thesis, does not fully succeed. Finally, I sketch some directions for future discussions, arguing that we should instead shift our attention to consider another set of questions concerning the costs and extent of change required to accommodate all autistics.</p>
 </details><p></p><p></p>
 
+<h2>Book Reviews</h2>
+
+<details>
+<summary>2024. Review of <em>The Epistemology of Protest: Silencing, Epistemic Activism, and the Communicative Life of Resistance</em>, by José Medina. <em>Ethics</em> 134(4): 599-604.
+<font color="#267CB9">[Abstract]</font>
+<a href="https://www.dropbox.com/scl/fi/alha64w797ddci0e94ffd/Lim-2024-Ethics-rev.pdf?rlkey=10co6i2gxso1pysioi25nuxu7&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://www.journals.uchicago.edu/doi/10.1086/729715" target="_blank" rel="noopener noreferrer">[Link]</a>
+</summary>
+<p>I review José Medina's book.</p>
+</details><p></p>
+
+<details>
+<summary>2022. Review of <em>The Minority Body: A Theory of Disability</em>, by Elizabeth Barnes. <em>Mind</em> 131(522): 650-659.
+<font color="#267CB9">[Abstract]</font>
+<a href="https://www.dropbox.com/scl/fi/k92a284b4eqkv94wyuulo/Lim-2020-MIND-rev.pdf?rlkey=we0tvncfb07m1q6em91xp7v7q&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzaa075/6008685?guestAccessKey=f665109c-873d-44b2-8e54-dd6ca21dfcad" target="_blank" rel="noopener noreferrer">[Link]</a>
+</summary>
+<p>I review Elizabeth Barnes&#8217; book.</p></details><p></p>
+
 <h1>Teaching</h1> 
 
-I received a <a href="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" data-type="link" data-id="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" target="_blank" rel="noreferrer noopener">Commendation for the Innovation in Inclusive Curricula Prize</a> (Australasian Association of Philosophy, 2023), and the <a href="https://www.ntu.edu.sg/soh/news-events/news/detail/congratulations-to-the-winners-of-the-inaugural-school-of-humanities-teaching-award-2023!" target="_blank" rel="noreferrer noopener"> School of Humanities Teaching Award</a> (Nanyang Technological University, 2023-4). 
+I have taught at University of Sheffield (2025-), Nanyang Technological University (2021-25), Stanford University (2020-21), University of Oxford (2018-19), University College London (2017), Singapore University of Social Sciences (2014), National University of Singapore (2011-14), and at several secondary schools in Singapore (2012-14). 
 
-Nanyang Technological University
-* Philosophy of Race and Gender. 2023, 2024.
-* Medical Ethics. 2023.
-* Popular Culture and Philosophy. 2023.
-* Ethics of Memory. 2022.
-* Ethics of Defensive Harming. 2022, 2023, 2024.
-* Ethics and Public Policy. 2022, 2023, 2024.
-* Political Philosophy. 2022, 2023, 2024.
-* Ethics and Moral Reasoning. 2021. 
-
-Stanford University 
-* Philosophy of Disability. 2021.
-* Disability. 2020. 
-
-University of Oxford
-* Foundations in Philosophy and Public Policy. 2019.
-* Political Thought: Plato to Rousseau. 2018. 
-
-University College London
-* Injustice (Philosophical Study Skills). 2017. 
-
-Singapore University of Social Sciences
-* The Moral Compass. 2014.
-* Thinking Critically. 2014. 
-
-National University of Singapore
-* Philosophy of Law. 2011, 2014.
-* Introduction to Philosophy. 2011-2013. 
-
-Others
-* Between 2012-2014, I taught philosophy at various secondary schools (students of ages 13-16) in Singapore.
-
+Teaching awards
+* <a href="https://www.ntu.edu.sg/soh/news-events/news/detail/congratulations-to-the-winners-of-the-inaugural-school-of-humanities-teaching-award-2023!" target="_blank" rel="noreferrer noopener">School of Humanities Teaching Award</a> (Nanyang Technological University, 2023-24).
+* <a href="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" data-type="link" data-id="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" target="_blank" rel="noreferrer noopener">Commendation for the Innovation in Inclusive Curricula Prize</a> (Australasian Association of Philosophy, 2023)
