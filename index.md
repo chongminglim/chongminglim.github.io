@@ -198,7 +198,7 @@ layout: default
 
 <h1>Teaching</h1> 
 
-I have taught at University of Sheffield (2025-), Nanyang Technological University (2021-25), Stanford University (2020-21), University of Oxford (2018-19), University College London (2017), Singapore University of Social Sciences (2014), National University of Singapore (2011-14), and at several secondary schools in Singapore (2012-14). 
+I have taught at University of Sheffield (2025-), Nanyang Technological University (2021-25), Stanford University (2020-21), University of Oxford (2018-19), University College London (2017), Singapore University of Social Sciences (2014), National University of Singapore (2011-14). I have also taught at a substance use disorder residential treatment facility (USA) and at several secondary schools (Singapore).
 
 Teaching awards
 * <a href="https://www.ntu.edu.sg/soh/news-events/news/detail/congratulations-to-the-winners-of-the-inaugural-school-of-humanities-teaching-award-2023!" target="_blank" rel="noreferrer noopener">School of Humanities Teaching Award</a> (Nanyang Technological University, 2023-24).
