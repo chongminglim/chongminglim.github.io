@@ -3,8 +3,20 @@ layout: default
 ---
 
 <h1>Research</h1>
+<h2>Book</h2>
+<details>
+<summary>2027 (expected). Commemorative Justice (under contract with Oxford University Press). 
+<font color="#267CB9">[Abstract]</font></summary>
+<p><a href="https://academic.oup.com/pages/early-career-researcher-first-book-prize" target="_blank" rel="noopener noreferrer">Winner of the 2025 Oxford University Press Early Career Researcher First Book Prize</a><br>The book comprises three parts. In Part I, I articulate the structure and justification of commemoration. I articulate a general and idealised account of the structure of public commemoration. In Part II, I specify and defend three core principles of commemorative justice. In Part III, I examine the implications of my account and consider how we can resist unjust commemorations.</p>
+</details>
 
 <h2>Articles and Book Chapters</h2>
+<details>
+<summary>2026 (Forthcoming). Civil disobedience and state anxiety. <em>British Journal of Political Science</em>. 
+<font color="#267CB9">[Abstract]</font></summary>
+<p><a href="https://www.thebritishacademy.ac.uk/prizes-medals/brian-barry-prize-political-science/" target="_blank" rel="noopener noreferrer">Winner of the 2025 British Academy Brian Barry Prize in Political Science</a><br>Political philosophers writing about civil disobedience have tended to neglect the anxiety of the state about such disobedience. I identify three constituents of state anxiety – the Contagion Assumption, the Fragility Stipulation, and the Worthiness Conviction. I argue that state anxiety can be substantiated or specious, depending on the plausibility of the Contagion Assumption and Fragility Stipulation. It can also be significant or trivial, depending on the plausibility of the Worthiness Conviction. Finally, and focusing on John Rawls, I show how political theorising about civil disobedience can mirror state anxiety and, in doing so, bolster it.</p>
+</details>
+
 <details>
 <summary>2026 (Forthcoming). Public commemoration and remembrance. In <em>The Oxford Handbook of Philosophy of Memory</em>, eds. Andre Sant’Anna and Carl F. Craver. Oxford University Press.
 <font color="#267CB9">[Abstract]</font>
@@ -15,7 +27,7 @@ layout: default
 </details><p></p>
 
 <details>
-<summary>2025 (Forthcoming). Civil disobedience and conscientious refusal. In <em>The Oxford Handbook of the Philosophy of John Rawls</em>, eds. Christie Hartley, Blain Neufeld and Lori Watson. Oxford University Press. Co-authored with <a href="https://philosophy.ubc.ca/profile/kimberley-brownlee/" target="_blank" rel="noopener">Kimberley Brownlee</a>.
+<summary>2026 (Forthcoming). Civil disobedience and conscientious refusal. In <em>The Oxford Handbook of the Philosophy of John Rawls</em>, eds. Christie Hartley, Blain Neufeld and Lori Watson. Oxford University Press. Co-authored with <a href="https://philosophy.ubc.ca/profile/kimberley-brownlee/" target="_blank" rel="noopener">Kimberley Brownlee</a>.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -24,10 +36,10 @@ layout: default
 </details><p></p>
 
 <details>
-<summary>2025 (Forthcoming). Political resistance and property damage. In <em>The Ethics of Uncivil Protest and Resistance</em>, eds. Candice Delmas & Avia Pasternak. Oxford University Press.
+<summary>2026 (Forthcoming). Political resistance and property damage. In <em>The Ethics of Uncivil Protest and Resistance</em>, eds. Candice Delmas & Avia Pasternak. Oxford University Press.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
+<a href="https://global.oup.com/academic/product/the-ethics-of-uncivil-protest-and-resistance-9780197754993" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>While property damage during protest is common, it is often regarded as impermissible. The “defensive” view of political resistance – which conceptualizes acts of resistance as acts of defense, centering on the potential of such acts to eliminate or mitigate unjust harms – appears to offer us resources to justify (at least some) property damage during protest. In this essay, I bring this view to bear on property damage during protest. First, I show how the view directs our attention to the burdens imposed by specific acts of property damage, rather than by types of such damage. Second, I show how the proportionality principle – a key element of the view – can impose severe constraints on property damage during protest.</p>
 </details><p></p>
@@ -113,7 +125,7 @@ layout: default
 <a href="https://www.dropbox.com/scl/fi/ppcc9rwz6lcrtqbjx53ro/Lim-2020-PAPA.pdf?rlkey=equuhanf3ygc49dxpv2ltgywh&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/papa.12162" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
-<p><a href="https://peasoup.princeton.edu/2020/12/ppa-discussion-chong-ming-lims-vandalizing-tainted-commemorations/" target="_blank" rel="noopener noreferrer">&#8211; Discussions of the paper on PEASoup.us (7 December 2020).</a><br><a href="https://www.apaonline.org/page/2021prizes-f#Kavka/UCI" target="_blank" rel="noopener noreferrer">&#8211; Winner of the 2022 Gregory Kavka/University of California, Irvine Prize in Political Philosophy.</a><br>What should we do about “tainted” public commemorations? Recent events have highlighted the urgency of reaching a consensus on this question. However, existing discussions appear to be dominated by two naïve opposing views – to remove or preserve them. My aims in this essay are two-fold. First, I argue that the two views are not naïve, but undergirded by concerns with securing self-respect and with the character of our engagement with the past. Second, I offer a qualified defence of vandalising tainted commemorations. The defence comprises two parts. I consider two prominent suggestions – to install counter-commemorations and to add contextualising plaques – and argue that they are typically beset with difficulties. I then argue that in some circumstances, constrained vandalism is a response to tainted commemorations which effectively adjudicates the demands of the two opposing views.</p></details><p></p>
+<p><a href="https://peasoupblog.com/2020/12/ppa-discussion-chong-ming-lims-vandalizing-tainted-commemorations/" target="_blank" rel="noopener noreferrer">&#8211; Discussions of the paper on PEASoup.us (7 December 2020).</a><br><a href="https://www.apaonline.org/page/2021prizes-f#Kavka/UCI" target="_blank" rel="noopener noreferrer">&#8211; Winner of the 2022 Gregory Kavka/University of California, Irvine Prize in Political Philosophy.</a><br>What should we do about “tainted” public commemorations? Recent events have highlighted the urgency of reaching a consensus on this question. However, existing discussions appear to be dominated by two naïve opposing views – to remove or preserve them. My aims in this essay are two-fold. First, I argue that the two views are not naïve, but undergirded by concerns with securing self-respect and with the character of our engagement with the past. Second, I offer a qualified defence of vandalising tainted commemorations. The defence comprises two parts. I consider two prominent suggestions – to install counter-commemorations and to add contextualising plaques – and argue that they are typically beset with difficulties. I then argue that in some circumstances, constrained vandalism is a response to tainted commemorations which effectively adjudicates the demands of the two opposing views.</p></details><p></p>
 
 <details>
 <summary>2019. Effectiveness and ecumenicity. <em>Journal of Moral Philosophy </em>16(5): 590-612.
@@ -178,6 +190,11 @@ layout: default
 </details><p></p><p></p>
 
 <h2>Book Reviews</h2>
+<details>
+<summary>2025. Review of <em>No Justice, No Peace: The Ethics of Violent Protests</em>, by Avia Pasternak. <em>Mind</em>.
+<font color="#267CB9">[Abstract]</font></summary>
+<p>I raise some questions about when the principles regulating protest are satisfied, citizens' contribution to injustice, and the constraining force of public opinion.</p>
+</details><p></p>
 
 <details>
 <summary>2024. Review of <em>The Epistemology of Protest: Silencing, Epistemic Activism, and the Communicative Life of Resistance</em>, by José Medina. <em>Ethics</em> 134(4): 599-604.
@@ -185,7 +202,7 @@ layout: default
 <a href="https://www.dropbox.com/scl/fi/alha64w797ddci0e94ffd/Lim-2024-Ethics-rev.pdf?rlkey=10co6i2gxso1pysioi25nuxu7&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://www.journals.uchicago.edu/doi/10.1086/729715" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
-<p>I review José Medina's book.</p>
+<p>I raise some questions about the felicity of acts of protest, the relevance of social conventions, and the relationship between the felicity and legitimacy of protests.</p>
 </details><p></p>
 
 <details>
@@ -194,7 +211,7 @@ layout: default
 <a href="https://www.dropbox.com/scl/fi/k92a284b4eqkv94wyuulo/Lim-2020-MIND-rev.pdf?rlkey=we0tvncfb07m1q6em91xp7v7q&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzaa075/6008685?guestAccessKey=f665109c-873d-44b2-8e54-dd6ca21dfcad" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
-<p>I review Elizabeth Barnes&#8217; book.</p></details><p></p>
+<p>I raise some questions about the role of the disability rights movement in determining the boundaries of disability, the character of local and global goods/bads, the plausibility of value neutrality, and the language of civil rights.</p></details><p></p>
 
 <h1>Teaching</h1> 
 
