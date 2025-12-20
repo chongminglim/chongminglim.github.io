@@ -7,7 +7,7 @@ layout: default
 <details>
 <summary>2027 (expected). Commemorative Justice (under contract with Oxford University Press). 
 <font color="#267CB9">[Abstract]</font></summary>
-<p><a href="https://corp.oup.com/news/announcing-the-winners-of-the-inaugural-first-book-prize/" target="_blank" rel="noopener noreferrer">Winner of the 2025 Oxford University Press Early Career Researcher First Book Prize</a><br>The book comprises three parts. In Part I, I articulate the structure and justification of commemoration. I articulate a general and idealised account of the structure of public commemoration. In Part II, I specify and defend three core principles of commemorative justice. In Part III, I examine the implications of my account and consider how we can resist unjust commemorations.</p>
+<p><a href="https://corp.oup.com/news/announcing-the-winners-of-the-inaugural-first-book-prize/" target="_blank" rel="noopener noreferrer">Winner of the 2025 Oxford University Press Early Career Researcher First Book Prize</a><br>The book comprises three parts. In Part I, I articulate a general and idealised account of the structure of public commemoration. In Part II, I specify and defend three core principles of commemorative justice. In Part III, I examine the implications of my account and consider how we can resist unjust commemorations.</p>
 </details><p></p><p></p>
 
 <h2>Articles and Book Chapters</h2>
@@ -193,7 +193,7 @@ layout: default
 <details>
 <summary>2025. Review of <em>No Justice, No Peace: The Ethics of Violent Protests</em>, by Avia Pasternak. <em>Mind</em>.
 <font color="#267CB9">[Abstract]</font>
-<a href="https://www.dropbox.com/scl/fi/dn85c0ohnf8rfliqvdz01/Lim-2025-Mind-rev.pdf?rlkey=vfl1jxn4faf7ltiummgbnsnnz&st=j3cj2eo7&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://www.dropbox.com/scl/fi/dn85c0ohnf8rfliqvdz01/Lim-2025-Mind-rev.pdf?rlkey=vfl1jxn4faf7ltiummgbnsnnz&st=j3cj2eo7&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a><a href="https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzaf074/8384286?guestAccessKey=a2596cf7-4520-49af-873c-f7051f489c20" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>I raise some questions about when the principles regulating protest are satisfied, citizens' contribution to injustice, and the constraining force of public opinion.</p>
 </details><p></p>
