@@ -12,6 +12,15 @@ layout: default
 
 <h2>Articles and Book Chapters</h2>
 <details>
+<summary>2026 (Forthcoming). Demarcating disobedience. <em>South Atlantic Quarterly</em>. 
+<font color="#267CB9">[Abstract]</font>
+<a href="https://www.dropbox.com/scl/fi/u6bovee8bdaq22mxaa6zt/Lim-2026-SAQ.pdf?rlkey=qam72u1sypljueu431itbhsa3&st=nsm1q823&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
+</summary>
+<p>Many political philosophers and theorists argue that acts of political disobedience have a special status or cachet, and thus should be treated differently – more sympathetically. This defense of disobedience generates a demand for dissidents who engage in such acts (“disobedients”) to differentiate themselves from mere criminals. According to an influential view, disobedients must act in constrained ways that communicate to their audience that their actions are motivated by conscientious convictions or considered judgments about the injustice against which they protest. This view is, however, unable to deliver plausible verdicts about the actions of disobedients in deeply non-ideal societies – in which the social meaning of the actions of members of marginalized groups are systematically distorted, or in which there is no tolerance for law-violation in general. In response to these difficulties, this article defends a contextualist view of demarcating political disobedience, which relies on the relationship between an act of law-violation and collective action. Specifically, an act of law-violation is one of political disobedience if a collective claims it as an act that contributes to its goal of enacting social change, and if the law-violator assents to such a claim.</p>
+</details><p></p>
+
+<details>
 <summary>2026 (Forthcoming). Civil disobedience and state anxiety. <em>British Journal of Political Science</em>. 
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/wxrvfbgrgn05i37zywxvo/Lim-2026-BJPS.pdf?rlkey=tdbap3mdg3kkqgizcs6eg7bf5&st=1gzaizt3&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -30,7 +39,7 @@ layout: default
 </details><p></p>
 
 <details>
-<summary>2026 (Forthcoming). Civil disobedience and conscientious refusal. In <em>The Oxford Handbook of the Philosophy of John Rawls</em>, eds. Christie Hartley, Blain Neufeld and Lori Watson. Oxford University Press. Co-authored with <a href="https://philosophy.ubc.ca/profile/kimberley-brownlee/" target="_blank" rel="noopener">Kimberley Brownlee</a>.
+<summary>2026. Civil disobedience and conscientious refusal. In <em>The Oxford Handbook of the Philosophy of John Rawls</em>, eds. Christie Hartley, Blain Neufeld and Lori Watson. Oxford University Press. Co-authored with <a href="https://philosophy.ubc.ca/profile/kimberley-brownlee/" target="_blank" rel="noopener">Kimberley Brownlee</a>.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/l0g5icd83zno235w2jtqh/Lim-Brownlee-2025-OHRawls.pdf?rlkey=tmfifb6fir1gvr8p2g6dl34ni&st=q45e7ne5&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://academic.oup.com/edited-volume/60677/chapter-abstract/544480043" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -39,7 +48,7 @@ layout: default
 </details><p></p>
 
 <details>
-<summary>2026 (Forthcoming). Political resistance and property damage. In <em>The Ethics of Uncivil Protest and Resistance</em>, eds. Candice Delmas & Avia Pasternak. Oxford University Press.
+<summary>2026. Political resistance and property damage. In <em>The Ethics of Uncivil Protest and Resistance</em>, eds. Candice Delmas & Avia Pasternak. Oxford University Press.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/x3at5m75kbjmbey7hbveb/Lim-2025-UncivilPR.pdf?rlkey=sv4hory6qqsfrd3rh7e68gdsz&st=uabn4poy&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://global.oup.com/academic/product/the-ethics-of-uncivil-protest-and-resistance-9780197754993" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -114,7 +123,7 @@ layout: default
 <p>Conscientious disobedients often face the demand to differentiate themselves from criminals whose law-breaking actions are not undergirded by conscientious convictions. Within public and philosophical discourse, conscientious disobedients are often criticised on the basis that their actions render them no different from criminals. I provide a qualified defence of disobedients in this essay. I argue that the differentiation demand can be satisfied even by disobedients who engage in what are typically regarded as radical acts of disobedience. In practical terms, this means that even disobedients who engage in actions such as arson, rioting, vandalism or vigilantism can also successfully differentiate themselves from criminals.</p></details><p></p>
 
 <details>
-<summary>2020. Transforming problematic commemorations through vandalism. <em>Journal of Global Ethics</em>. Invited contribution.
+<summary>2020. Transforming problematic commemorations through vandalism. <em>Journal of Global Ethics</em> 16(3): 414-421. Invited contribution.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/ouhtsbe00qkbgmlwoqian/Lim-2020-JGE.pdf?rlkey=9jduf6uzfmauykr05ub8pgs1b&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://www.tandfonline.com/eprint/SSKAHAEXJCWFWEPTS5PS/full?target=10.1080/17449626.2021.1873165" target="_blank" rel="noopener noreferrer">[Link]</a>
