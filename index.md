@@ -4,12 +4,13 @@ layout: default
 
 <h1>Research</h1>
 <h2>Book</h2>
-<details>
+<ol>
+<li><details>
 <summary>2027 (expected). Commemorative Justice (under contract with Oxford University Press). 
 <font color="#267CB9">[Abstract]</font></summary>
 <p><a href="https://corp.oup.com/news/announcing-the-winners-of-the-inaugural-first-book-prize/" target="_blank" rel="noopener noreferrer">Winner of the 2025 Oxford University Press Early Career Researcher First Book Prize</a><br>The book comprises three parts. In Part I, I articulate a general and idealised account of the structure of public commemoration. In Part II, I specify and defend three core principles of commemorative justice. In Part III, I examine the implications of my account and consider how we can resist unjust commemorations.</p>
-</details><p></p><p></p>
-
+</details></li><p></p><p></p>
+</ol>
 <h2>Articles and Book Chapters</h2>
 <ol>
 <li><details>
@@ -86,8 +87,7 @@ layout: default
 - Teaching and Learning Guide with a sample lesson plan
 <a href="https://www.dropbox.com/scl/fi/xrp8hey8728442qv5z4ir/Lim-Lai-2024-PC-TLG.pdf?rlkey=aa82hbmvh4zp82349l18dsq8x&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12970" target="_blank" rel="noopener noreferrer">[Link]</a></li>
-
-
+<br>
 <li><details>
 <summary>2024. Clarifying our duties to resist. <em>Inquiry</em> 67(9): 3527-3546.
 <font color="#267CB9">[Abstract]</font>
