@@ -113,7 +113,7 @@ layout: default
 <a href="https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/abs/environmental-activism-and-the-fairness-of-costs-argument-for-uncivil-disobedience/B9E1610FE8E4923458AF81B27C9EC582" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>Social movements often impose nontrivial costs on others against their wills. Civil disobedience is no exception. How can social movements in general, and civil disobedience in particular, be justifiable despite this apparent wrong-making feature? We examine an intuitively plausible account – it is fair that everyone should bear the burdens of tackling injustice. We extend this fairness-based argument for civil disobedience to defend some acts of uncivil disobedience. Focusing on uncivil environmental activism – such as ecotage (sabotage with the aim of protecting the environment) – we argue that some acts of uncivil disobedience can be morally superior to their civil counterparts, when and because such acts target people who are responsible for environmental threats. Indeed, insofar as some acts of uncivil disobedience can more accurately target responsible people, they can better satisfy the demands of fairness compared to their civil counterparts. In some circumstances, our argument may require activists to engage in uncivil disobedience even when civil disobedience is available.</p>
-</details><li><p></p>
+</details></li><p></p>
 
 <li><details>
 <summary>2021. Differentiating disobedients. <em>Journal of Ethics and Social Philosophy </em>20(2): 119-143.
@@ -146,7 +146,7 @@ layout: default
 <a href="https://www.dropbox.com/scl/fi/lh192d6quvgwe9wcm6gri/Lim-2019-JMP.pdf?rlkey=adtvf3gbhyq6tsv2p0hkg37yo&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://doi.org/10.1163/17455243-20180016" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
-<p>Effective altruism is purportedly ecumenical towards different moral views, charitable causes, and evidentiary methods. I argue that effective altruists’ criticisms of purportedly less effective charities are inconsistent with their commitment to ecumenicity. Individuals may justifiably support charities other than those recommended by effective altruism. If effective altruists take their commitment to ecumenicity seriously, they will have to revise their criticisms of many of these charities.</p></details><li><p></p>
+<p>Effective altruism is purportedly ecumenical towards different moral views, charitable causes, and evidentiary methods. I argue that effective altruists’ criticisms of purportedly less effective charities are inconsistent with their commitment to ecumenicity. Individuals may justifiably support charities other than those recommended by effective altruism. If effective altruists take their commitment to ecumenicity seriously, they will have to revise their criticisms of many of these charities.</p></details></li><p></p>
 
 <li><details>
 <summary>2018. Disabilities are also legitimately medically interesting constraints on legitimate interests. <em>Mind</em> 127(508): 977-1002.
@@ -228,7 +228,7 @@ layout: default
 <a href="https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzaa075/6008685?guestAccessKey=f665109c-873d-44b2-8e54-dd6ca21dfcad" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>I raise some questions about the role of the disability rights movement in determining the boundaries of disability, the character of local and global goods/bads, the plausibility of value neutrality, and the language of civil rights.</p></details></li><p></p>
-<ol>
+</ol>
 <h1>Teaching</h1> 
 
 I have taught at University of Sheffield (2025-), Nanyang Technological University (2021-25), Stanford University (2020-21), University of Oxford (2018-19), University College London (2017), Singapore University of Social Sciences (2014), National University of Singapore (2011-14). I have also taught at a substance use disorder residential treatment facility (USA) and at several secondary schools (Singapore).
