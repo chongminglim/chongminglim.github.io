@@ -207,7 +207,7 @@ layout: default
 <li><details>
 <summary>2025. Review of <em>No Justice, No Peace: The Ethics of Violent Protests</em>, by Avia Pasternak. <em>Mind</em>.
 <font color="#267CB9">[Abstract]</font>
-<a href="https://www.dropbox.com/scl/fi/dn85c0ohnf8rfliqvdz01/Lim-2025-Mind-rev.pdf?rlkey=vfl1jxn4faf7ltiummgbnsnnz&st=j3cj2eo7&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a><a href="https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzaf074/8384286?guestAccessKey=a2596cf7-4520-49af-873c-f7051f489c20" target="_blank" rel="noopener noreferrer">[Link]</a>
+<a href="https://www.dropbox.com/scl/fi/dn85c0ohnf8rfliqvdz01/Lim-2025-Mind-rev.pdf?rlkey=vfl1jxn4faf7ltiummgbnsnnz&st=j3cj2eo7&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a><a href="https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzaf074/8384286?guestAccessKey=a2596cf7-4520-49af-873c-f7051f489c20" target="_blank" rel="noopener noreferrer"> [Link]</a>
 </summary>
 <p>I raise some questions about when the principles regulating protest are satisfied, citizens' contribution to injustice, and the constraining force of public opinion.</p>
 </details></li><p></p>
