@@ -23,21 +23,21 @@ layout: default
 </details></li><p></p>
 
 <li><details>
-<summary>2026 (Forthcoming). Civil disobedience and state anxiety. <em>British Journal of Political Science</em>. 
-<font color="#267CB9">[Abstract]</font>
-<a href="https://www.dropbox.com/scl/fi/wxrvfbgrgn05i37zywxvo/Lim-2026-BJPS.pdf?rlkey=tdbap3mdg3kkqgizcs6eg7bf5&st=1gzaizt3&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://doi.org/10.1017/S0007123425101312" target="_blank" rel="noopener noreferrer">[Link]</a>
-</summary>
-<p><a href="https://www.thebritishacademy.ac.uk/prizes-medals/brian-barry-prize-political-science/" target="_blank" rel="noopener noreferrer">Winner of the 2025 British Academy Brian Barry Prize in Political Science</a><br>Political philosophers writing about civil disobedience have tended to neglect the anxiety of the state about such disobedience. I identify three constituents of state anxiety – "Contagion", "Fragility", and "Value" - concerning the character of disobedience, and the fragility and value of public institutions. I argue that state anxiety can be substantiated or specious, depending on the plausibility of Contagion and Fragility. It can also be significant or trivial, depending on the plausibility of Value. Finally, and focusing on John Rawls, I show how political philosophising about civil disobedience can mirror state anxiety and, in doing so, bolster it.</p>
-</details></li><p></p>
-
-<li><details>
 <summary>2026 (Forthcoming). Public commemoration and remembrance. In <em>The Oxford Handbook of Philosophy of Memory</em>, eds. Andre Sant’Anna and Carl F. Craver. Oxford University Press.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>Public commemorative artefacts (including public monuments) typically mark out some historical subject – typically, a person or an event – as important for a community to remember. This chapter surveys the budding literature on the historical character of public commemorative artefacts. First, it details three typical aims of public commemorative artefacts as they pertain to public remembrance. They declare the importance of some historical subject, impart ethical or political lessons, and foster community identity that is grounded in shared remembrance of the past. Next, it outlines two common problems with public commemorative artefacts. They can present incomplete or distorted accounts of history, and lead people to abdicate responsibility for the past. The chapter proposes an account of democratic public historiography that addresses the problems with public commemorative artefacts.</p>
+</details></li><p></p>
+
+<li><details>
+<summary>2026. Civil disobedience and state anxiety. <em>British Journal of Political Science</em>. 
+<font color="#267CB9">[Abstract]</font>
+<a href="https://www.dropbox.com/scl/fi/wxrvfbgrgn05i37zywxvo/Lim-2026-BJPS.pdf?rlkey=tdbap3mdg3kkqgizcs6eg7bf5&st=1gzaizt3&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://doi.org/10.1017/S0007123425101312" target="_blank" rel="noopener noreferrer">[Link]</a>
+</summary>
+<p><a href="https://www.thebritishacademy.ac.uk/prizes-medals/brian-barry-prize-political-science/" target="_blank" rel="noopener noreferrer">Winner of the 2025 British Academy Brian Barry Prize in Political Science</a><br>Political philosophers writing about civil disobedience have tended to neglect the anxiety of the state about such disobedience. I identify three constituents of state anxiety – "Contagion", "Fragility", and "Value" - concerning the character of disobedience, and the fragility and value of public institutions. I argue that state anxiety can be substantiated or specious, depending on the plausibility of Contagion and Fragility. It can also be significant or trivial, depending on the plausibility of Value. Finally, and focusing on John Rawls, I show how political philosophising about civil disobedience can mirror state anxiety and, in doing so, bolster it.</p>
 </details></li><p></p>
 
 <li><details>
