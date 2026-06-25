@@ -16,10 +16,10 @@ layout: default
 <li><details>
 <summary>2027 (Forthcoming). Preservation and Recognition. <em>Ethics</em>. 
 <font color="#267CB9">[Abstract]</font>
-<a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
-<p>In this essay, I articulate and respond to the challenge of using public funds to preserve cultural artefacts – the challenge of public preservation. First, I decompose the challenge of public preservation into three distinct challenges, each of which comprise further specific problems. Next, I defend a “public goods” response to these challenges. According to my account, public preservation is justified, and thus must be regulated, by a community’s need to accord collective recognition to the participants of a plurality of cultures.</p>
+<p>I decompose the challenge of public preservation – concerning whether public funds may be used to preserve cultural artefacts – into three distinct challenges, each of which comprise further specific problems. I then argue that communities need to accord collective recognition to the participants of a plurality of cultures, and have reason to undertake public preservation in order to do so.</p>
 </details></li><p></p>
 
 <li><details>
