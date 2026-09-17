@@ -53,7 +53,7 @@ layout: default
 <summary>2026. Civil disobedience and conscientious refusal. In <em>The Oxford Handbook of the Philosophy of John Rawls</em>, eds. Christie Hartley, Blain Neufeld and Lori Watson. Oxford University Press. Co-authored with <a href="https://philosophy.ubc.ca/profile/kimberley-brownlee/" target="_blank" rel="noopener">Kimberley Brownlee</a>.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/l0g5icd83zno235w2jtqh/Lim-Brownlee-2025-OHRawls.pdf?rlkey=tmfifb6fir1gvr8p2g6dl34ni&st=q45e7ne5&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://academic.oup.com/edited-volume/60677/chapter-abstract/544480043" target="_blank" rel="noopener noreferrer">[Link]</a>
+<a href="https://doi.org/10.1093/oxfordhb/9780197754931.013.0054" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>In <em>A Theory of Justice</em>, John Rawls produced what remains the most influential account of civil disobedience and, to a lesser extent, conscientious refusal. Engaging with Rawls’s account and seeking to deploy it to evaluate real-world cases are, however, undertakings beset with difficulties. In relation to civil disobedience, first, Rawls defines civil disobedience so narrowly (as a conscientious, non-violent breach of law undertaken with fair notice, fidelity to the system, and acceptance of the consequences to bring about policy change) that no paradigm example from Gandhi to Rosa Parks satisfies it. Second, Rawls’s three conditions for morally justified civil disobedience – that it be undertaken (1) in response to violations of the principles of justice, (2) as a last resort, and (3) in coordination with other dissenters so as not to overburden the majority’s sense of justice or risk lasting injury to a just constitution – impose extreme restrictions on civil disobedience. In relation to conscientious refusal, Rawls’s approach is equally narrow: he sets aside refusals that would be grounded in persons’ private commitments and focuses instead on refusals grounded in public considerations; his central case is selective pacificism grounded in a respect for equal basic liberties (Rawls’s first principle of justice). This chapter acknowledges the argumentative power and lasting influence of Rawls’s treatment of civil disobedience and conscientious objection, while detailing how his account must be refined – and in some ways radically altered – to address real-world concerns.</p>
 </details></li><p></p>
@@ -62,7 +62,7 @@ layout: default
 <summary>2026. Political resistance and property damage. In <em>The Ethics of Uncivil Protest and Resistance</em>, eds. Candice Delmas & Avia Pasternak. Oxford University Press.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/x3at5m75kbjmbey7hbveb/Lim-2025-UncivilPR.pdf?rlkey=sv4hory6qqsfrd3rh7e68gdsz&st=uabn4poy&dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://global.oup.com/academic/product/the-ethics-of-uncivil-protest-and-resistance-9780197754993" target="_blank" rel="noopener noreferrer">[Link]</a>
+<a href="https://doi.org/10.1093/9780197755020.003.0009" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>While property damage during protest is common, it is often regarded as impermissible. The “defensive” view of political resistance – which conceptualizes acts of resistance as acts of defense, centering on the potential of such acts to eliminate or mitigate unjust harms – appears to offer us resources to justify (at least some) property damage during protest. In this essay, I bring this view to bear on property damage during protest. First, I show how the view directs our attention to the burdens imposed by specific acts of property damage, rather than by types of such damage. Second, I show how the proportionality principle – a key element of the view – can impose severe constraints on property damage during protest.</p>
 </details></li><p></p>
@@ -170,7 +170,7 @@ layout: default
 <summary>2018. Public reason, compromise within consensus, and legitimacy. In <em>New Perspectives on Distributive Justice: Deep Disagreements, Pluralism, and the Problem of Consensus</em>, eds. Manuel Knoll, Stephen Snyder and Nurdane Şimşek. De Gruyter Press.
 <font color="#267CB9">[Abstract]</font>
 <a href="https://www.dropbox.com/scl/fi/tcaet9ii5w717xewvzge8/Lim-2018-New-perspectives.pdf?rlkey=v6gexky5995ixshn2423amq38&#038;dl=0" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<a href="https://www.degruyter.com/view/product/485500" target="_blank" rel="noopener noreferrer">[Link]</a> 
+<a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110537369-015/html" target="_blank" rel="noopener noreferrer">[Link]</a> 
 </summary>
 <p>A central idea of public reason liberalism is that the exercise of political power is legitimate when supported only by reasons which all citizens accept. Public reason serves as a necessary standard for evaluating the legitimacy of political decisions. In this paper, I examine the directive to employ public reason, from citizens’ perspective. I suggest that employing public reason potentially involves them engaging in different types of compromise. I consider how acknowledging these compromises sheds light on public reason liberalism. Public reason may not offer a necessary standard for evaluating the legitimacy of decisions, and the evaluation it offers may not have great weight relative to other moral and political considerations.</p>
 </details></li><p></p>
@@ -244,4 +244,4 @@ I have taught at University of Sheffield (2025-), Nanyang Technological Universi
 
 Recognition
 * <a href="https://www.ntu.edu.sg/soh/news-events/news/detail/congratulations-to-the-winners-of-the-inaugural-school-of-humanities-teaching-award-2023!" target="_blank" rel="noreferrer noopener">School of Humanities Teaching Award</a> (Nanyang Technological University, 2023-24).
-* <a href="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" data-type="link" data-id="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" target="_blank" rel="noreferrer noopener">Commendation for the Innovation in Inclusive Curricula Prize</a> (Australasian Association of Philosophy, 2023)
+* <a href="https://aap.org.au/Innovation-in-Inclusive-Curricula-Prize" target="_blank" rel="noreferrer noopener">Commendation for the Innovation in Inclusive Curricula Prize</a> (Australasian Association of Philosophy, 2023)
