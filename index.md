@@ -16,7 +16,7 @@ layout: default
 <li><details>
 <summary>2027 (Forthcoming). Preservation and Recognition. <em>Ethics</em>. 
 <font color="#267CB9">[Abstract]</font>
-<a href="" target="_blank" rel="noopener noreferrer">[PDF]</a>
+<a href="https://" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <a href="https://" target="_blank" rel="noopener noreferrer">[Link]</a>
 </summary>
 <p>I decompose the challenge of public preservation – concerning whether public funds may be used to preserve cultural artefacts – into three distinct challenges, each of which comprise further specific problems. I then argue that communities need to accord collective recognition to the participants of a plurality of cultures, and have reason to undertake public preservation in order to do so.</p>
