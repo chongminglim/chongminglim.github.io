@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<h1>Curriculum Vitae</h1>
+<h1>Curriculum Vitae*</h1>
+<i>* Please contact me to request a full CV.</i>
+
 <h2>Education</h2>
 (2020) DPhil in Philosophy, University of Oxford<br>
 (2017) MPhilStud in Philosophy, University College London<br>
